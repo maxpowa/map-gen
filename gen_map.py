@@ -1,6 +1,13 @@
+#!/usr/bin/env python
 # coding=utf8
 """
 Generate an SVG map with avatars on it.
+
+Edit the members.json to suit your fancy.
+Pass twitter OAuth client key and client secret as the parameters.
+Redirect stdout to a file to save.
+
+Usage: ./gen_map.py [oauth_client] [client_secret]
 """
 
 import urllib, urllib2
@@ -88,6 +95,9 @@ def gen_map():
 
 
 if __name__ == "__main__":
+    if len(sys.argv) < 3:
+        print __doc__
+        exit(1)
     client_key = sys.argv[1]
     client_secret = sys.argv[2]
     if not gen_map():
