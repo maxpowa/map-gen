@@ -120,7 +120,7 @@
  */
 .oceanxx
 {
-   opacity: 0;
+   opacity: 1;
    color: #000000;
    fill:#ffffff;
    stroke:#000;
@@ -3174,7 +3174,7 @@
   
 <a xlink:href="http://twitter.com/asiekierka">
     <title>asie</title>
-    <image width="37.022686" height="37.022686" xlink:href="http://pbs.twimg.com/profile_images/559468111154278400/j02Zjdc4.jpeg" x="1387.8975" y="288.69101">
+    <image width="37" height="37" xlink:href="http://pbs.twimg.com/profile_images/559468111154278400/j02Zjdc4.jpeg" x="1388" y="289">
         <title>asie</title>
     </image>
 </a>
@@ -3182,7 +3182,7 @@
 
 <a xlink:href="http://twitter.com/ShittyTitty_">
     <title>Azazel</title>
-    <image width="33.264809" height="33.264809" xlink:href="http://abs.twimg.com/sticky/default_profile_images/default_profile_2.png" x="714.7179" y="396.1167">
+    <image width="33" height="33" xlink:href="http://abs.twimg.com/sticky/default_profile_images/default_profile_2.png" x="715" y="395">
         <title>Azazel</title>
     </image>
 </a>
@@ -3190,7 +3190,7 @@
 
 <a xlink:href="http://twitter.com/BinaryTENSHi">
     <title>Chen</title>
-    <image width="17.382603" height="17.382603" xlink:href="http://pbs.twimg.com/profile_images/549576185064083456/rK9uS81f.jpeg" x="1325.5071" y="346.24103">
+    <image width="18" height="18" xlink:href="http://pbs.twimg.com/profile_images/549576185064083456/rK9uS81f.jpeg" x="1325" y="346">
         <title>Chen</title>
     </image>
 </a>
@@ -3198,7 +3198,7 @@
 
 <a xlink:href="http://twitter.com/darkevilmac">
     <title>Darkevilmac</title>
-    <image width="43.961334" height="43.961334" xlink:href="http://pbs.twimg.com/profile_images/569395667802415104/sgblwswu.png" x="457.52881" y="287.38129">
+    <image width="44" height="44" xlink:href="http://pbs.twimg.com/profile_images/569395667802415104/sgblwswu.png" x="458" y="285">
         <title>Darkevilmac</title>
     </image>
 </a>
@@ -3206,7 +3206,7 @@
 
 <a xlink:href="http://twitter.com/GustoniaEagle">
     <title>Eagle</title>
-    <image width="15.02811" height="15.02811" xlink:href="http://pbs.twimg.com/profile_images/3781552493/6b0d62e82d1416fb4451a3c852109bd9.png" x="1266.3992" y="290.55402">
+    <image width="13" height="13" xlink:href="http://pbs.twimg.com/profile_images/3781552493/6b0d62e82d1416fb4451a3c852109bd9.png" x="1266" y="290">
         <title>Eagle</title>
     </image>
 </a>
@@ -3214,7 +3214,7 @@
 
 <a xlink:href="http://twitter.com/Pokefenn">
     <title>Fenn</title>
-    <image width="12.869115" height="12.869115" xlink:href="http://pbs.twimg.com/profile_images/579189486149595136/qtRCosjL.png" x="1259.2292" y="300.68484">
+    <image width="13" height="13" xlink:href="http://pbs.twimg.com/profile_images/579189486149595136/qtRCosjL.png" x="1260" y="300">
         <title>Fenn</title>
     </image>
 </a>
@@ -3222,7 +3222,7 @@
 
 <a xlink:href="http://twitter.com/skyem123">
     <title>Skye</title>
-    <image width="12.869115" height="12.869115" xlink:href="http://pbs.twimg.com/profile_images/513079274685755392/gqVSGPNa.png" x="1274.2292" y="300.68484">
+    <image width="13" height="13" xlink:href="http://pbs.twimg.com/profile_images/513079274685755392/gqVSGPNa.png" x="1274" y="300">
         <title>Skye</title>
     </image>
 </a>
@@ -3246,7 +3246,7 @@
 
 <a xlink:href="http://twitter.com/Hexagonapus">
     <title>??????????????????????</title>
-    <image width="39.898911" height="39.898911" xlink:href="http://pbs.twimg.com/profile_images/574808661542895616/6Cpsuwin.png" x="696.90863" y="353.23499">
+    <image width="40" height="40" xlink:href="http://pbs.twimg.com/profile_images/574808661542895616/6Cpsuwin.png" x="696" y="354">
         <title>??????????????????????</title>
     </image>
 </a>
@@ -3254,7 +3254,7 @@
 
 <a xlink:href="http://twitter.com/TinyInumuta">
     <title>Inumuta</title>
-    <image width="37.022686" height="37.022686" xlink:href="http://pbs.twimg.com/profile_images/514520852713320449/iIgHN8Ea.png" x="410.99738" y="401.2128">
+    <image width="37" height="37" xlink:href="http://pbs.twimg.com/profile_images/514520852713320449/iIgHN8Ea.png" x="650" y="490">
         <title>Inumuta</title>
     </image>
 </a>
@@ -3262,7 +3262,7 @@
 
 <a xlink:href="http://twitter.com/ivesen_">
     <title>ivesen</title>
-    <image width="35.105202" height="35.105202" xlink:href="http://pbs.twimg.com/profile_images/511211801816485888/5v2ZoRdd.jpeg" x="1322.765" y="221.20839">
+    <image width="35" height="35" xlink:href="http://pbs.twimg.com/profile_images/511211801816485888/5v2ZoRdd.jpeg" x="1323" y="221">
         <title>ivesen</title>
     </image>
 </a>
@@ -3270,7 +3270,7 @@
 
 <a xlink:href="http://twitter.com/Lordmau5">
     <title>Lordmau5</title>
-    <image width="20.360022" height="20.360022" xlink:href="http://pbs.twimg.com/profile_images/578132598897016832/Z84qzUKJ.png" x="1333.7311" y="329.44559">
+    <image width="20" height="20" xlink:href="http://pbs.twimg.com/profile_images/578132598897016832/Z84qzUKJ.png" x="1334" y="330">
         <title>Lordmau5</title>
     </image>
 </a>
@@ -3278,7 +3278,7 @@
 
 <a xlink:href="http://twitter.com/maxpowa_">
     <title>maxpowa</title>
-    <image width="33.187725" height="33.187725" xlink:href="http://pbs.twimg.com/profile_images/558540566015639552/AcQ37MWq.jpeg" x="429.74002" y="446.00992">
+    <image width="34" height="34" xlink:href="http://pbs.twimg.com/profile_images/558540566015639552/AcQ37MWq.jpeg" x="405" y="410">
         <title>maxpowa</title>
     </image>
 </a>
@@ -3286,7 +3286,7 @@
 
 <a xlink:href="http://twitter.com/meew0">
     <title>meew0</title>
-    <image width="20.439852" height="20.439852" xlink:href="http://pbs.twimg.com/profile_images/528481356943081472/fYmH1R1e.png" x="1334.9617" y="286.91547">
+    <image width="20" height="20" xlink:href="http://pbs.twimg.com/profile_images/528481356943081472/fYmH1R1e.png" x="1335" y="287">
         <title>meew0</title>
     </image>
 </a>
@@ -3294,7 +3294,7 @@
 
 <a xlink:href="http://github.com/meew0/Mewtwo">
     <title>Mewtwo</title>
-    <image width="19.790817" height="19.790817" xlink:href="http://puu.sh/gRk6b/96e5ba5a69.png" x="1356.4644" y="290.17776">
+    <image width="20" height="20" xlink:href="http://puu.sh/gRk6b/96e5ba5a69.png" x="1356" y="290">
         <title>Mewtwo</title>
     </image>
 </a>
@@ -3302,7 +3302,7 @@
 
 <a xlink:href="http://twitter.com/Nentify">
     <title>Nentify</title>
-    <image width="14.001233" height="14.001233" xlink:href="http://pbs.twimg.com/profile_images/569200425430044672/iScYtCe7.png" x="1248.3517" y="312.20209">
+    <image width="14" height="14" xlink:href="http://pbs.twimg.com/profile_images/569200425430044672/iScYtCe7.png" x="1248" y="312">
         <title>Nentify</title>
     </image>
 </a>
@@ -3310,7 +3310,7 @@
 
 <a xlink:href="http://twitter.com/OrangeGeniusMC">
     <title>Orange</title>
-    <image width="87.441681" height="87.441681" xlink:href="http://pbs.twimg.com/profile_images/576658300684500992/JOSCpi1P.jpeg" x="597.77203" y="234.33702">
+    <image width="50" height="50" xlink:href="http://pbs.twimg.com/profile_images/576658300684500992/JOSCpi1P.jpeg" x="598" y="234">
         <title>Orange</title>
     </image>
 </a>
@@ -3318,7 +3318,7 @@
 
 <a xlink:href="http://twitter.com/RX14_chibi">
     <title>RX14</title>
-    <image width="15.268978" height="15.268978" xlink:href="http://pbs.twimg.com/profile_images/527569779716923393/13zqnEg2.jpeg" x="1263.1835" y="311.71661">
+    <image width="15" height="15" xlink:href="http://pbs.twimg.com/profile_images/527569779716923393/13zqnEg2.jpeg" x="1263" y="312">
         <title>RX14</title>
     </image>
 </a>
@@ -3326,7 +3326,7 @@
 
 <a xlink:href="https://twitter.com/andrejsavikin">
     <title>Sava</title>
-    <image width="13.524672" height="13.524672" xlink:href="http://pbs.twimg.com/profile_images/497512616651005953/vQH5kzQb.jpeg" x="1282.7574" y="304.76813">
+    <image width="14" height="14" xlink:href="http://pbs.twimg.com/profile_images/497512616651005953/vQH5kzQb.jpeg" x="1283" y="305">
         <title>Sava</title>
     </image>
 </a>
@@ -3334,7 +3334,7 @@
 
 <a xlink:href="http://twitter.com/Silica_J">
     <title>Silica</title>
-    <image width="40.197514" height="40.197514" xlink:href="http://pbs.twimg.com/profile_images/569681853800411136/rLGXHUWj.jpeg" x="533.40662" y="460.6799">
+    <image width="40" height="40" xlink:href="http://pbs.twimg.com/profile_images/569681853800411136/rLGXHUWj.jpeg" x="534" y="460">
         <title>Silica</title>
     </image>
 </a>
@@ -3342,7 +3342,7 @@
 
 <a xlink:href="http://twitter.com/TomicComics">
     <title>sonicspin</title>
-    <image width="49.570198" height="49.570198" xlink:href="http://pbs.twimg.com/profile_images/579336030886723584/coL2Oggc.jpg" x="735.79626" y="1007.1169">
+    <image width="50" height="50" xlink:href="http://pbs.twimg.com/profile_images/579336030886723584/coL2Oggc.jpg" x="736" y="1007">
         <title>sonicspin</title>
     </image>
 </a>
@@ -3350,7 +3350,7 @@
 
 <a xlink:href="http://forum.industrial-craft.net/index.php?page=User&amp;userID=2752">
     <title>SpwnX</title>
-    <image width="98.87233" height="134.82591" xlink:href="http://forum.industrial-craft.net/wcf/images/avatars/avatar-1903.jpg" x="841.8244" y="762.90399">
+    <image width="50" height="50" xlink:href="http://forum.industrial-craft.net/wcf/images/avatars/avatar-1903.jpg" x="842" y="762">
         <title>SpwnX</title>
     </image>
 </a>
@@ -3358,7 +3358,7 @@
 
 <a xlink:href="http://twitter.com/Strikingwolf14">
     <title>Strikingwolf</title>
-    <image width="53.377762" height="53.377762" xlink:href="http://pbs.twimg.com/profile_images/526212272545202176/0kzDuiBt.png" x="602.00336" y="392.52814">
+    <image width="50" height="50" xlink:href="http://pbs.twimg.com/profile_images/526212272545202176/0kzDuiBt.png" x="602" y="392">
         <title>Strikingwolf</title>
     </image>
 </a>
@@ -3366,7 +3366,7 @@
 
 <a xlink:href="http://twitter.com/SythsGod">
     <title>Syths</title>
-    <image width="18.97051" height="18.97051" xlink:href="http://pbs.twimg.com/profile_images/552148590706311168/ZZ3HXszI.jpeg" x="1300.7679" y="314.76404">
+    <image width="19" height="19" xlink:href="http://pbs.twimg.com/profile_images/552148590706311168/ZZ3HXszI.jpeg" x="1300" y="315">
         <title>Syths</title>
     </image>
 </a>
@@ -3382,7 +3382,7 @@
 
 <a xlink:href="http://twitter.com/Thog92dev">
     <title>Thog</title>
-    <image width="23.19433" height="23.19433" xlink:href="http://pbs.twimg.com/profile_images/553865877582385152/aSNVp52E.png" x="1295.9618" y="335.71204">
+    <image width="23" height="23" xlink:href="http://pbs.twimg.com/profile_images/553865877582385152/aSNVp52E.png" x="1295" y="335">
         <title>Thog</title>
     </image>
 </a>
@@ -3390,7 +3390,7 @@
 
 <a xlink:href="http://twitter.com/Croxmata">
     <title>Vexatos</title>
-    <image width="19.846613" height="19.846613" xlink:href="http://pbs.twimg.com/profile_images/1764082198/MP900401211_1_.jpg" x="1325.9713" y="310.78854">
+    <image width="20" height="20" xlink:href="http://pbs.twimg.com/profile_images/1764082198/MP900401211_1_.jpg" x="1325" y="310">
         <title>Vexatos</title>
     </image>
 </a>
@@ -3398,7 +3398,7 @@
 
 <a xlink:href="http://twitter.com/VicNightfall">
     <title>Vic</title>
-    <image width="22.493608" height="22.493608" xlink:href="http://pbs.twimg.com/profile_images/539188728023900160/H2Ahewr0.png" x="1348.7108" y="309.48611">
+    <image width="23" height="23" xlink:href="http://pbs.twimg.com/profile_images/539188728023900160/H2Ahewr0.png" x="1348" y="310">
         <title>Vic</title>
     </image>
 </a>
@@ -3406,7 +3406,7 @@
 
 <a xlink:href="http://twitter.com/x8uurg">
     <title>x8uurg</title>
-    <image width="18.29258" height="18.29258" xlink:href="http://pbs.twimg.com/profile_images/579060773412081664/ZUfKOHZX.png" x="1310.9957" y="296.66223">
+    <image width="18" height="18" xlink:href="http://pbs.twimg.com/profile_images/579060773412081664/ZUfKOHZX.png" x="1310" y="296">
         <title>x8uurg</title>
     </image>
 </a>
@@ -3414,7 +3414,7 @@
 
 <a xlink:href="http://twitter.com/Party1Animal">
     <title>Kelnius</title>
-    <image width="22.641565" height="22.641565" xlink:href="http://pbs.twimg.com/profile_images/531184338994352128/J71Md1pQ.jpeg" x="1423.6821" y="273.29715">
+    <image width="22" height="22" xlink:href="http://pbs.twimg.com/profile_images/531184338994352128/J71Md1pQ.jpeg" x="1424" y="273">
         <title>Kelnius</title>
     </image>
 </a>
@@ -3422,7 +3422,7 @@
 
 <a xlink:href="http://twitter.com/TehMacGTX">
     <title>TechMac</title>
-    <image width="24.615522" height="24.615522" xlink:href="http://pbs.twimg.com/profile_images/378800000790143338/91ab4444ec61be7e0095be8e29622cfb.png" x="1336.4509" y="210.34599">
+    <image width="25" height="25" xlink:href="http://pbs.twimg.com/profile_images/378800000790143338/91ab4444ec61be7e0095be8e29622cfb.png" x="1336" y="210">
         <title>TechMac</title>
     </image>
 </a>
@@ -3430,7 +3430,7 @@
 
 <a xlink:href="http://github.com/Blorph">
     <title>Blorph</title>
-    <image width="37.694706" height="37.694706" xlink:href="http://pbs.twimg.com/profile_images/548380919464075264/PA4NHF6R.png" x="442.49573" y="341.93237">
+    <image width="38" height="38" xlink:href="http://pbs.twimg.com/profile_images/548380919464075264/PA4NHF6R.png" x="442" y="342">
         <title>Blorph</title>
     </image>
 </a>
@@ -3438,7 +3438,7 @@
 
 <a xlink:href="http://github.com/shadowfacts">
     <title>shadowfacts</title>
-    <image width="20.295805" height="20.295805" xlink:href="https://avatars1.githubusercontent.com/u/7091588" x="735.70624" y="397.58646">
+    <image width="20" height="20" xlink:href="https://avatars1.githubusercontent.com/u/7091588" x="736" y="398">
         <title>shadowfacts</title>
     </image>
 </a>
