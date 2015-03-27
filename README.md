@@ -7,4 +7,6 @@ Pass twitter OAuth client key and client secret as the parameters.
 Redirect stdout to a file to save.
 
 ## Example
-`gen_map.py hWIsyfaIASofaiDAvFisWaCst fpQ2x1WE5yMVR0alVkcGVpQUtpOHlLaVN5MDlqR25ETyjw > worldmap.svg`
+```
+~$ gen_map.py hWIsyfaIASofaiDAvFisWaCst fpQ2x1WE5yMVR0alVkcGVpQUtpOHlLaVN5MDlqR25ETyjw > worldmap.svg
+```
