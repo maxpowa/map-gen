@@ -82,7 +82,7 @@ def gen_map():
     if not data:
         return False
 
-    with open('map_template.svg', 'r+b') as tmpl_map:
+    with open('map_template.svg', 'r+') as tmpl_map:
         output = tmpl_map.read()
 
     members = []
