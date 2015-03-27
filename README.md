@@ -1,4 +1,4 @@
-# wamm-map-gen
+# SVG Map Gen
 For making fancy SVG maps with floaty user icons.
 
 ## Usage
