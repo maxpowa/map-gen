@@ -120,7 +120,7 @@
  */
 .oceanxx
 {
-   opacity: 0;
+   opacity: 1;
    color: #000000;
    fill:#ffffff;
    stroke:#000;
@@ -3190,7 +3190,7 @@
 
 <a xlink:href="http://twitter.com/BinaryTENSHi">
     <title>Chen</title>
-    <image width="18" height="18" xlink:href="http://pbs.twimg.com/profile_images/549576185064083456/rK9uS81f.jpeg" x="1325" y="346">
+    <image width="18" height="18" xlink:href="http://pbs.twimg.com/profile_images/593808767940079616/uI-lVMSj.jpg" x="1325" y="346">
         <title>Chen</title>
     </image>
 </a>
@@ -3206,7 +3206,7 @@
 
 <a xlink:href="http://twitter.com/GustoniaEagle">
     <title>Eagle</title>
-    <image width="13" height="13" xlink:href="http://pbs.twimg.com/profile_images/3781552493/6b0d62e82d1416fb4451a3c852109bd9.png" x="1266" y="290">
+    <image width="13" height="13" xlink:href="http://pbs.twimg.com/profile_images/584989796940062720/2dyMMthb.png" x="1266" y="290">
         <title>Eagle</title>
     </image>
 </a>
@@ -3270,7 +3270,7 @@
 
 <a xlink:href="http://twitter.com/Lordmau5">
     <title>Lordmau5</title>
-    <image width="20" height="20" xlink:href="http://pbs.twimg.com/profile_images/578132598897016832/Z84qzUKJ.png" x="1334" y="330">
+    <image width="20" height="20" xlink:href="http://pbs.twimg.com/profile_images/590528844244787200/copr_1s-.jpg" x="1334" y="330">
         <title>Lordmau5</title>
     </image>
 </a>
@@ -3278,7 +3278,7 @@
 
 <a xlink:href="http://twitter.com/maxpowa_">
     <title>maxpowa</title>
-    <image width="34" height="34" xlink:href="http://pbs.twimg.com/profile_images/558540566015639552/AcQ37MWq.jpeg" x="405" y="410">
+    <image width="34" height="34" xlink:href="http://pbs.twimg.com/profile_images/584573910349250561/GQqV7G6H.jpg" x="405" y="410">
         <title>maxpowa</title>
     </image>
 </a>
@@ -3310,7 +3310,7 @@
 
 <a xlink:href="http://twitter.com/OrangeGeniusMC">
     <title>Orange</title>
-    <image width="50" height="50" xlink:href="http://pbs.twimg.com/profile_images/576658300684500992/JOSCpi1P.jpeg" x="598" y="234">
+    <image width="50" height="50" xlink:href="http://pbs.twimg.com/profile_images/597325301333393408/MOIKpzgQ.jpg" x="598" y="234">
         <title>Orange</title>
     </image>
 </a>
@@ -3342,7 +3342,7 @@
 
 <a xlink:href="http://twitter.com/TomicComics">
     <title>sonicspin</title>
-    <image width="50" height="50" xlink:href="http://pbs.twimg.com/profile_images/579336030886723584/coL2Oggc.jpg" x="736" y="1007">
+    <image width="50" height="50" xlink:href="http://pbs.twimg.com/profile_images/588093670399803392/BlPw3bIz.png" x="736" y="1007">
         <title>sonicspin</title>
     </image>
 </a>
